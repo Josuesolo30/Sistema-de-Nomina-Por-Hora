@@ -1,0 +1,15 @@
+C:\Users\josue\source\repos\nominaApp\nominaApp\obj\Debug\nominaApp.csproj.AssemblyReference.cache
+C:\Users\josue\source\repos\nominaApp\nominaApp\obj\Debug\nominaApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\josue\source\repos\nominaApp\nominaApp\obj\Debug\nominaApp.FrmMain.resources
+C:\Users\josue\source\repos\nominaApp\nominaApp\obj\Debug\nominaApp.FrmRegistroEmpleado.resources
+C:\Users\josue\source\repos\nominaApp\nominaApp\obj\Debug\nominaApp.Properties.Resources.resources
+C:\Users\josue\source\repos\nominaApp\nominaApp\obj\Debug\nominaApp.csproj.GenerateResource.cache
+C:\Users\josue\source\repos\nominaApp\nominaApp\obj\Debug\nominaApp.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\nominaApp\nominaApp\bin\Debug\nominaApp.exe.config
+C:\Users\josue\source\repos\nominaApp\nominaApp\bin\Debug\nominaApp.exe
+C:\Users\josue\source\repos\nominaApp\nominaApp\bin\Debug\nominaApp.pdb
+C:\Users\josue\source\repos\nominaApp\nominaApp\obj\Debug\nominaApp.FrmGenerarNomina.resources
+C:\Users\josue\source\repos\nominaApp\nominaApp\obj\Debug\nominaApp.FrmRegistroMovimientos.resources
+C:\Users\josue\source\repos\nominaApp\nominaApp\obj\Debug\nominaApp.exe
+C:\Users\josue\source\repos\nominaApp\nominaApp\obj\Debug\nominaApp.pdb
+C:\Users\josue\source\repos\nominaApp\nominaApp\obj\Debug\nominaApp.FrmCalcularSueldo.resources
